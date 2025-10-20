@@ -5,10 +5,6 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 
-
-![Snake animation](https://raw.githubusercontent.com/pbegin2812/pbegin2812/output/github-snake-dark.svg)
-
-
 ---
 
 ## 🧠 About Me
