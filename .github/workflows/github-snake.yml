@@ -1,0 +1,22 @@
+name: GitHub Readme Snake
+
+# Déclenche le workflow automatiquement toutes les heures et aussi manuellement
+on:
+  schedule:
+    - cron: "0 * * * *" # toutes les heures
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Récupère le repo
+      - uses: actions/checkout@v3
+
+      # Génère le GitHub Snake
+      - name: Generate GitHub Snake
+        uses: qwesdfgh123/github-readme-snake-action@main
+        with:
+          github_user_name: pbegin2812 # ton pseudo GitHub
+          theme: dark # thème du snake (dark ou light)
