@@ -5,9 +5,8 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pbegin2812/pbegin2812/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
-</p>
+
+![Snake animation](https://raw.githubusercontent.com/pbegin2812/pbegin2812/output/github-snake-dark.svg)
 
 
 ---
