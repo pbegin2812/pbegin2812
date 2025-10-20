@@ -1,4 +1,5 @@
 name: GitHub Readme Snake
+name: GitHub Readme Snake
 
 # Déclenche le workflow automatiquement toutes les heures et aussi manuellement
 on:
