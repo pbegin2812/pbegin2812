@@ -5,6 +5,11 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pbegin2812/pbegin2812/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
+</p>
+
+
 ---
 
 ## 🧠 About Me
@@ -59,6 +64,27 @@
   <a href="mailto:pbegin@edenschool.fr" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
+</p>
+
+---
+
+## 🎯 Get to Know Me
+
+<p align="left">
+  <b>🧑 Age:</b> 14 years old<br>
+  <b>🎵 Favorite Music:</b><br> 
+  1. Un peu de haine - PLK 🎶 <br> 
+  2. Demain - PLK 🎶  <br>
+  3. Monégasque - PLK 🎶<br><br>
+
+  <b>🎤 Favorite Artist:</b> PLK  
+  <br>
+  <img src="https://cdn-images.dzcdn.net/images/artist/90fda6aa551a34c05671f53c4ea71390/1900x1900-000000-81-0-0.jpg" width="150" alt="PLK"/>
+  <br><br>
+
+  <b>🎮 Favorite Game:</b> Valorant<br>
+  <b>💖 Interests & Hobbies:</b> Coding, Music, Gaming, YouTube<br>
+  <b>📍 Location:</b> Villeurbanne, France
 </p>
 
 ---
