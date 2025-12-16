@@ -41,8 +41,13 @@
   <a href="https://discordapp.com/users/saozu_fps" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="50" />
   </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
   <!-- Gmail -->
-  <a href="mailto:pbegin@edenschool.fr" target="_blank">
+  <a href="mailto:pbegin@edenschool.fr" target="_blank" padding>
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
