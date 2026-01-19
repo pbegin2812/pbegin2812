@@ -74,18 +74,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbegin2812&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbegin2812&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbegin2812&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <p align="center">
 ⭐️ <i>"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs</i>
