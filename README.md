@@ -61,7 +61,7 @@
   <b>🎵 Favorite Music:</b><br> 
   1. Citadelle - 2L, Merveille 🎶 <br> 
   2. 200db - 2L 🎶  <br>
-  3. Courage - 2L 🎶<br><br>
+  3. Contrôle - 2L 🎶<br><br>
 
   <b>🎤 Favorite Artist:</b> 2L  
   <br>
