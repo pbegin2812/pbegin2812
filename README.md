@@ -59,14 +59,15 @@
 <p align="left">
   <b>🧑 Age:</b> 14 years old<br>
   <b>🎵 Favorite Music:</b><br> 
-  1. Un peu de haine - PLK 🎶 <br> 
-  2. Demain - PLK 🎶  <br>
-  3. Monégasque - PLK 🎶<br><br>
+  1. Citadelle - 2L, Merveille 🎶 <br> 
+  2. 200db - 2L 🎶  <br>
+  3. Courage - 2L 🎶<br><br>
 
-  <b>🎤 Favorite Artist:</b> PLK  
+  <b>🎤 Favorite Artist:</b> 2L  
   <br>
-  <img src="https://cdn-images.dzcdn.net/images/artist/90fda6aa551a34c05671f53c4ea71390/1900x1900-000000-81-0-0.jpg" width="150" alt="PLK"/>
+  <img src="https://i.scdn.co/image/ab676161000051746f60c34114303cf2a44f3b79" width="150" alt="2L"/>
   <br><br>
+
 
   <b>🎮 Favorite Game:</b> Valorant<br>
   <b>💖 Interests & Hobbies:</b> Coding, Music, Gaming, YouTube<br>
