@@ -58,21 +58,6 @@
 
 <p align="left">
   <b>🧑 Age:</b> 15 years old<br>
-  <b>🎵 Favorite Music:</b><br> 
-  1. Citadelle - 2L, Merveille 🎶 <br> 
-  2. 200db - 2L 🎶  <br>
-  3. Contrôle - 2L 🎶<br><br>
-
-  <b>🎤 Favorite Artist:</b> 2L  
-  <br>
-  <img src="https://i.scdn.co/image/ab676161000051746f60c34114303cf2a44f3b79" width="150" alt="2L"/>
-  <br><br>
-
-
-  <b>🎮 Favorite Game:</b> Valorant<br>
-  <b>💖 Interests & Hobbies:</b> Coding, Music, Gaming, YouTube<br>
-  <b>📍 Location:</b> Villeurbanne, France
-</p>
 
 ---
 
